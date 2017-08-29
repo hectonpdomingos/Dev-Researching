@@ -45,7 +45,8 @@ http://www.yudiz.com/mysql-vs-mysqli-vs-pdo/
 mysqli-vs-pdo-vs-mysql
 https://www.phpclasses.org/blog/post/521-mysqli-vs-pdo-vs-mysql.html
 
-
+JavaScript: Form Validation
+	http://www.the-art-of-web.com/javascript/validate/
 
 pdo mysql
 https://php.earth/doc/databases/mysqli-or-pdo
