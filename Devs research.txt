@@ -50,7 +50,8 @@ https://www.phpclasses.org/blog/post/521-mysqli-vs-pdo-vs-mysql.html
 pdo mysql
 https://php.earth/doc/databases/mysqli-or-pdo
 
-
+sql-mode
+https://stackoverflow.com/questions/2317650/setting-global-sql-mode-in-mysql
 
 file upload
 https://www.w3schools.com/php/php_file_upload.asp
