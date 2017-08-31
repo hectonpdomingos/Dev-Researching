@@ -45,6 +45,10 @@ http://www.yudiz.com/mysql-vs-mysqli-vs-pdo/
 https://www.paypal-brasil.com.br/desenvolvedores/tutorial/guia-de-integracao-rapida-usando-html/
 
 
+##blog killerphp
+https://www.killerphp.com/articles/category/php-tips-tricks/
+
+
 mysqli-vs-pdo-vs-mysql
 https://www.phpclasses.org/blog/post/521-mysqli-vs-pdo-vs-mysql.html
 
