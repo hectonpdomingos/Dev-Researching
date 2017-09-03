@@ -15,6 +15,9 @@ https://www.keycdn.com/blog/web-development-tools/
 paypal api
 https://developer.paypal.com/docs/
 
+##PHP StD
+http://www.php-fig.org/psr/
+
 
 ################### Security
 
