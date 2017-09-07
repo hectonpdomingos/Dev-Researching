@@ -37,6 +37,8 @@ http://wiki.hashphp.org/PDO_Tutorial_for_MySQL_Developers
 https://www.vulnhub.com/
 https://www.bugcrowd.com/
 
+#Burp Suite 
+https://portswigger.net/buy
 
 #Wfuzz - find web directories
 http://www.edge-security.com/wfuzz.php
