@@ -33,8 +33,13 @@ https://stackoverflow.com/questions/19662767/password-does-not-match-after-being
 PDO Dev
 http://wiki.hashphp.org/PDO_Tutorial_for_MySQL_Developers
 
-#vulnhub
+#vulnhub - find bug and be paid
 https://www.vulnhub.com/
+https://www.bugcrowd.com/
+
+
+#Wfuzz - find web directories
+http://www.edge-security.com/wfuzz.php
 
 #hackerone
 https://www.hackerone.com/
