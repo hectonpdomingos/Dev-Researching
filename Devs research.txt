@@ -35,6 +35,8 @@ http://wiki.hashphp.org/PDO_Tutorial_for_MySQL_Developers
 
 
 
+#web for pentesters
+https://www.pentesterlab.com/exercises/web_for_pentester/course
 
 ########################## tips and tricks
 https://phpbestpractices.org/
