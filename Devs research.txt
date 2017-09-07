@@ -36,6 +36,9 @@ http://wiki.hashphp.org/PDO_Tutorial_for_MySQL_Developers
 #vulnhub
 https://www.vulnhub.com/
 
+#hackerone
+https://www.hackerone.com/
+
 #10 tips and tricks to learn pt
 https://dzone.com/articles/10-steps-to-kickstart-your-web-application-securit
 
