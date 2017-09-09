@@ -1,5 +1,8 @@
 ﻿Devs research
 
+
+############### nodejs free host ##########
+openshift.com
 ################# domains seelers #####
 
 [namesilo "protect" buyer info]
