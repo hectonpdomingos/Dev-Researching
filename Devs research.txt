@@ -1,9 +1,11 @@
 ﻿Devs research
 
+################# domains seelers #####
+
+[namesilo "protect" buyer info]
+https://www.namesilo.com/
 
 ################# web dev tools ############
-
-
 
 https://www.keycdn.com/blog/web-development-tools/
 
